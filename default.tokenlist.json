@@ -1,0 +1,30 @@
+{
+  "name": "ApeX Default List",
+  "timestamp": "2022-03-16T12:00:00Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://apex.exchange/favicon.ico",
+  "keywords": ["ApeX", "default"],
+  "tokens": [
+    {
+      "name": "Mock Wrapped Ether",
+      "symbol": "mWETH",
+      "address": "0x655e2b2244934Aea3457E3C56a7438C271778D44",
+      "chainId": 421611,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
+    },
+    {
+      "name": "ApeX Token",
+      "symbol": "ApeX",
+      "address": "0x3f355c9803285248084879521AE81FF4D3185cDD",
+      "chainId": 421611,
+      "decimals": 18,
+      "logoURI": "https://apex.exchange/favicon.ico"
+    }
+  ]
+}
