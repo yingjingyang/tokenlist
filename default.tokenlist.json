@@ -2,7 +2,7 @@
   "name": "ApeX Default List",
   "timestamp": "2022-03-16T12:00:00Z",
   "version": {
-    "major": 0,
+    "major": 1,
     "minor": 2,
     "patch": 0
   },
@@ -38,23 +38,6 @@
             "tokenAddress": "0x393fd5b96f6459511d7368778318c31d719720ad",
             "originBridgeAddress": "0x9b014455acc2fe90c52803849d0002aeec184a06",
             "destBridgeAddress": "0x917dc9a69F65dC3082D518192cd3725E1Fa96cA2"
-          }
-        }
-      }
-    },
-    {
-      "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-uni.png?1600306604",
-      "chainId": 421611,
-      "address": "0x049251A7175071316e089D0616d8B6aaCD2c93b8",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "4": {
-            "tokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-            "originBridgeAddress": "0x195c107f3f75c4c93eba7d9a1312f19305d6375f",
-            "destBridgeAddress": "0x91169Dbb45e6804743F94609De50D511C437572E"
           }
         }
       }
