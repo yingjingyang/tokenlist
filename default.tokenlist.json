@@ -3,7 +3,7 @@
   "timestamp": "2022-03-16T12:00:00Z",
   "version": {
     "major": 0,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -25,6 +25,22 @@
       "chainId": 421611,
       "decimals": 18,
       "logoURI": "https://apex.exchange/favicon.ico"
+    },
+    {
+      "chainId": 421611,
+      "address": "0x2E228ef2A59686cC5c6fF06cD46ee302a4134F00",
+      "name": "Land",
+      "symbol": "LAND",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "4": {
+            "tokenAddress": "0x393fd5b96f6459511d7368778318c31d719720ad",
+            "originBridgeAddress": "0x9b014455acc2fe90c52803849d0002aeec184a06",
+            "destBridgeAddress": "0x917dc9a69F65dC3082D518192cd3725E1Fa96cA2"
+          }
+        }
+      }
     }
   ]
 }
