@@ -2,7 +2,7 @@
   "name": "ApeX Default List",
   "timestamp": "2022-03-16T12:00:00Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 3,
     "patch": 0
   },
@@ -10,22 +10,6 @@
   "logoURI": "https://apex.exchange/favicon.ico",
   "keywords": ["ApeX", "default"],
   "tokens": [
-    {
-      "chainId": 421611,
-      "address": "0xf3f0384583d0574955Dccbb044A64Ad249cf9C3E",
-      "name": "Corn",
-      "symbol": "CORN",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "4": {
-            "tokenAddress": "0xd6a87faf418c818f93be9ae8b63d1d4fe3e7df45",
-            "originBridgeAddress": "0x9b014455acc2fe90c52803849d0002aeec184a06",
-            "destBridgeAddress": "0x917dc9a69F65dC3082D518192cd3725E1Fa96cA2"
-          }
-        }
-      }
-    },
     {
       "name": "Mock Wrapped Ether",
       "symbol": "mWETH",
