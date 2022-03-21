@@ -27,13 +27,6 @@
       "logoURI": "https://apex.exchange/favicon.ico"
     },
     {
-      "name": "TKN Token",
-      "symbol": "TKN",
-      "address": "0x99C1aE38292791a52E26eE6AFdAeC69563F9b5C3",
-      "chainId": 421611,
-      "decimals": 18
-    },
-    {
       "chainId": 421611,
       "address": "0x2E228ef2A59686cC5c6fF06cD46ee302a4134F00",
       "name": "Land",
