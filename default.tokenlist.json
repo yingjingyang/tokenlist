@@ -3,7 +3,7 @@
   "timestamp": "2022-03-16T12:00:00Z",
   "version": {
     "major": 3,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {},
@@ -17,6 +17,13 @@
       "chainId": 421611,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
+    },
+    {
+      "name": "TokenB Token",
+      "symbol": "TB",
+      "address": "0x07eb25ec053A4D1E069391d108414CD2632Ffc3a",
+      "chainId": 421611,
+      "decimals": 18
     },
     {
       "name": "ApeX Token",
