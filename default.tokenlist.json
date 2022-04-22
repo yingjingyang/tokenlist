@@ -3,13 +3,32 @@
   "timestamp": "2022-03-16T12:00:00Z",
   "version": {
     "major": 3,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {},
   "logoURI": "https://apex.exchange/favicon.ico",
   "keywords": ["ApeX", "default"],
   "tokens": [
+     {
+      "chainId": 42161,
+      "address": "",
+      "name": "",
+      "symbol": "",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0b006e475620af076915257c6a9e40635abdbbad",
+            "originBridgeAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
+            "destBridgeAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
+          }
+        },
+        "l1Address": "0x0b006e475620af076915257c6a9e40635abdbbad",
+        "l2GatewayAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
+        "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
+      }
+    },
     {
       "name": "Mock Wrapped Ether",
       "symbol": "mWETH",
