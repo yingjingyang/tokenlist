@@ -11,7 +11,7 @@
   "keywords": ["ApeX", "default"],
   "tokens": [
     {
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-uni.png?1600306604",
       "chainId": 42161,
       "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
       "name": "Uniswap",
