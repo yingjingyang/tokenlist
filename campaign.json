@@ -5,13 +5,11 @@
             "src": "true",
             "name": "ApeX Ultimate Knockout",
             "desc": "Participate in campaigns, bravely break through rounds, and receive generous prizes",
-
             "toDate": 1657987200000,
             "button": "Join"
         },
         {
             "href": "https://app.apex.exchange/trade",
-            "learnMore": "https://app.apex.exchange/trade",
             "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
             "name": "Staking2",
             "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
