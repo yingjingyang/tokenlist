@@ -1,5 +1,6 @@
 {
-    "popularCampaign": [{
+    "popularCampaign": [
+        {
             "href": "https://app.apex.exchange/trade",
             "learnMore": "https://app.apex.exchange/trade",
             "src": "true",
